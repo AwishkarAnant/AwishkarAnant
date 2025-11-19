@@ -8,7 +8,7 @@
 
 ---
 
-![Anant's GitHub Banner](https://github.com/AwishkarAnant/AwishkarAnant/blob/master/AwishkarAnant.jpg)
+![Anant's GitHub Banner](https://github.com/AwishkarAnant/AwishkarAnant/blob/main/AwishkarAnant.jpg)
 
 ---
 
